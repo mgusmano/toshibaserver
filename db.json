@@ -92,19 +92,19 @@
     },
 
     {
-      "skillID": 1,
+      "skillID": 7071,
       "groupID": 34707,
       "skillName": "Core Loading",
       "goal": 1
     },
     {
-      "skillID": 2,
+      "skillID": 7072,
       "groupID": 34707,
       "skillName": "Phase Paper Insertion (VW)",
       "goal": 2
     },
     {
-      "skillID": 3,
+      "skillID": 7073,
       "groupID": 34707,
       "skillName": "Phase Paper Insertion (UV)",
       "goal": 3
@@ -224,149 +224,6 @@
       "goal": 4
     }
   ],
-  "certifications": [
-    {
-      "skillID": 751,
-      "operatorID": 284393,
-      "groupID": 34751,
-      "meta": {
-        "type": "solid",
-        "currcertID": 2,
-        "letter": "",
-        "start": "8/3/2021"
-      },
-      "data": [],
-      "id": 291903
-    },
-    {
-      "skillID": 751,
-      "operatorID": 284408,
-      "groupID": 34751,
-      "meta": {
-        "type": "solid",
-        "currcertID": 1,
-        "letter": "",
-        "start": "8/3/2021"
-      },
-      "data": [],
-      "id": 291918
-    },
-    {
-      "skillID": 751,
-      "operatorID": 284404,
-      "groupID": 34751,
-      "meta": {
-        "type": "solid",
-        "currcertID": 1,
-        "letter": "",
-        "start": "8/3/2021"
-      },
-      "data": [],
-      "id": 291914
-    },
-    {
-      "skillID": 751,
-      "operatorID": 284402,
-      "groupID": 34751,
-      "meta": {
-        "type": "solid",
-        "currcertID": 1,
-        "letter": "",
-        "start": "8/3/2021"
-      },
-      "data": [],
-      "id": 291912
-    },
-    {
-      "skillID": 751,
-      "operatorID": 284405,
-      "groupID": 34751,
-      "meta": {
-        "type": "solid",
-        "currcertID": 1,
-        "letter": "",
-        "start": "8/3/2021"
-      },
-      "data": [],
-      "id": 291915
-    },
-    {
-      "skillID": 1,
-      "operatorID": 284408,
-      "groupID": 34707,
-      "meta": {
-        "type": "solid",
-        "currcertID": 3,
-        "letter": "",
-        "start": "8/3/2021"
-      },
-      "data": [],
-      "id": 284418
-    },
-    {
-      "skillID": 1,
-      "operatorID": 284326,
-      "groupID": 34707,
-      "meta": {
-        "type": "solid",
-        "currcertID": 1,
-        "letter": "",
-        "start": "8/3/2021"
-      },
-      "data": [],
-      "id": 284336
-    },
-    {
-      "skillID": 1,
-      "operatorID": 284306,
-      "groupID": 34707,
-      "meta": {
-        "type": "solid",
-        "currcertID": 3,
-        "letter": "",
-        "start": "8/3/2021"
-      },
-      "data": [],
-      "id": 284316
-    },
-    {
-      "skillID": 1,
-      "operatorID": 284404,
-      "groupID": 34707,
-      "meta": {
-        "type": "solid",
-        "currcertID": 2,
-        "letter": "",
-        "start": "8/3/2021"
-      },
-      "data": [],
-      "id": 284414
-    },
-    {
-      "skillID": 1,
-      "operatorID": 284405,
-      "groupID": 34707,
-      "meta": {
-        "type": "solid",
-        "currcertID": 2,
-        "letter": "",
-        "start": "8/3/2021"
-      },
-      "data": [],
-      "id": 284415
-    },
-    {
-      "skillID": 1,
-      "operatorID": 284392,
-      "groupID": 34707,
-      "meta": {
-        "type": "solid",
-        "currcertID": 2,
-        "letter": "",
-        "start": "8/3/2021"
-      },
-      "data": [],
-      "id": 284402
-    }
-  ]
+  "certifications": []
+
 }

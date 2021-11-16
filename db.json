@@ -9,7 +9,18 @@
     {"skillID": 6,"groupID":34751,"skillName": "Neutral Crimp","goal": 6},
     {"skillID": 7,"groupID":34751,"skillName": "Final Forming","goal": 7},
     {"skillID": 8,"groupID":34751,"skillName": "Pre-Lacing","goal": 8},
-
+    {"skillID": 9,"groupID":1,"skillName": "Lacing & CSV","goal": 9},
+    {"skillID": 10,"groupID":1,"skillName": "Lead Wire Crimp","goal": 1},
+    {"skillID": 11,"groupID":1,"skillName": "Lead Wire Forming","goal": 2},
+    {"skillID": 12,"groupID":1,"skillName": "Tester I","goal": 3},
+    {"skillID": 13,"groupID":1,"skillName": "Varnish In","goal": 4},
+    {"skillID": 14,"groupID":1,"skillName": "Varnish Out 1","goal": 5},
+    {"skillID": 15,"groupID":1,"skillName": "Varnish Out 2","goal": 6},
+    {"skillID": 16,"groupID":1,"skillName": "Visual Inspection","goal": 7},
+    {"skillID": 17,"groupID":1,"skillName": "Tester II","goal": 8},
+    {"skillID": 18,"groupID":1,"skillName": "Packing","goal": 9},
+    {"skillID": 19,"groupID":1,"skillName": "Pre-Assembly","goal": 1},
+    {"skillID": 20,"groupID":1,"skillName": "Inspection & Packing","goal": 2},
 
 
 
